@@ -37,7 +37,7 @@ This project was built with the following technologies:
 
 DevLinks is a "link-in-bio" tool that works as a digital business card.
 
-- [Access the finished project.](https://devlinks-five-alpha.vercel.app/)
+- [Access the finished project.](https://rafael-fae.github.io/devlinks/)
 
 - [Watch classes](https://devlinks-github.maykbrito.dev/)
 
