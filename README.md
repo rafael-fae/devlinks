@@ -3,15 +3,15 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-This project was developed based on the Devlinks program by Rocketseat, a course focused on web technologies. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Click here to access the Devlinks program in video format.</a>
+Project built as part of Rocketseat's Devlinks program, a course focused on web technologies. <br/>
+<a href="https://devlinks-github.maykbrito.dev/">Click here to access the course in video format.</a>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -37,15 +37,15 @@ This project was built with the following technologies:
 
 DevLinks is a "link-in-bio" tool that works as a digital business card.
 
-- [Access the finished project.](https://maykbrito.github.io/devlinks)
+- [Access the finished project.](https://devlinks-five-alpha.vercel.app/)
 
-- [Watch classes](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Watch classes](https://devlinks-github.maykbrito.dev/)
 
 ## 🔖 Layout
 
-You can preview the project layout through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). You need a [Figma](https://figma.com) account to access it.
+You can preview the project layout through [THIS LINK.](https://www.figma.com/community/file/1187422022288947321) You need a [Figma](https://figma.com) account to access it.
 
-## :memo: License
+## 📝 License
 
 This project is under the MIT License.
 
